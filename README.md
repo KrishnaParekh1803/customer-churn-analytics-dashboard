@@ -6,7 +6,7 @@ An AI-powered customer retention platform that predicts customer churn and provi
 
 ---
 
-README.md# 🚀 Live Demo
+## 🚀 Live Demo
 
 https://customer-churn-analytics-dashboard-tja9vygmnmr4wznwwqmqxa.streamlit.app/
 
