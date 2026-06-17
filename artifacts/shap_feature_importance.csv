@@ -1,0 +1,56 @@
+Feature,MeanAbsSHAP
+num__tenure,0.9486442847668182
+num__EngagementScore,0.44764173054835965
+num__ContractRiskScore,0.4353116716457082
+cat__TenureGroup_Very Loyal,0.2534026462967717
+cat__InternetService_DSL,0.23013791556478108
+num__CLV,0.22000498300915572
+cat__InternetService_Fiber optic,0.20453317156555204
+num__ServiceCount,0.18334181721391923
+cat__PaperlessBilling_No,0.15434732529155848
+cat__MultipleLines_No,0.14026134809494947
+num__MonthlyCharges,0.10421540629852129
+cat__Contract_Two year,0.09612039792924708
+cat__StreamingMovies_No,0.09210221818231411
+cat__StreamingTV_No,0.09134350636884865
+num__TotalCharges,0.08891197266682158
+cat__Dependents_Yes,0.08847099155239466
+cat__PaymentMethod_Electronic check,0.0833007735033527
+cat__OnlineSecurity_Yes,0.08175660708316711
+cat__OnlineSecurity_No internet service,0.07936257827451272
+cat__InternetService_No,0.07936257827451272
+cat__DeviceProtection_No internet service,0.07936257827451272
+cat__TechSupport_No internet service,0.07936257827451272
+cat__StreamingTV_No internet service,0.07936257827451272
+cat__OnlineBackup_No internet service,0.07936257827451272
+cat__StreamingMovies_No internet service,0.07936257827451272
+cat__gender_Male,0.07639196508082677
+cat__TechSupport_Yes,0.07554361135804279
+cat__Partner_No,0.07228383149766808
+cat__Partner_Yes,0.06974236959700564
+cat__gender_Female,0.0653067881041628
+cat__PaymentMethod_Credit card (automatic),0.0642641036809711
+cat__TenureGroup_Regular,0.06330702232832626
+cat__OnlineSecurity_No,0.061662681952386576
+num__SeniorCitizen,0.060261577330251295
+cat__StreamingMovies_Yes,0.05997432986275771
+cat__PaymentMethod_Mailed check,0.0587413379510386
+cat__StreamingTV_Yes,0.058321607079484514
+cat__TechSupport_No,0.05602430661249473
+cat__PhoneService_Yes,0.04422942929756451
+cat__PaymentMethod_Bank transfer (automatic),0.03697459561235513
+cat__OnlineBackup_Yes,0.035025316061885955
+num__HighValueCustomer,0.033834677438488774
+cat__Dependents_No,0.030622578446818732
+cat__DeviceProtection_No,0.027388087860935363
+cat__Contract_Month-to-month,0.024721189379096658
+cat__Contract_One year,0.02450260970755083
+cat__TenureGroup_New,0.019623386779490524
+cat__MultipleLines_Yes,0.015921118413415345
+cat__PaperlessBilling_Yes,0.015129604238848257
+cat__OnlineBackup_No,0.008189770391216815
+cat__TenureGroup_Loyal,0.007411378169164138
+cat__PhoneService_No,0.006112162620329288
+cat__MultipleLines_No phone service,0.006112162620329288
+cat__DeviceProtection_Yes,0.002950611568105622
+cat__TenureGroup_nan,0.0010073006664456634
