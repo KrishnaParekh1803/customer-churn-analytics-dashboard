@@ -1,6 +1,6 @@
 # 🎯 Customer Churn Analytics Platform
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://customer-churn-analytics-dashboard-tja9vygmnmr4wznwwqmqxa.streamlit.app/)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://ai-customer-churn-dashboard.streamlit.app/)
 
 An AI-powered customer retention platform that predicts customer churn and provides actionable business insights through interactive dashboards and explainable machine learning.
 
